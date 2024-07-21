@@ -1,0 +1,2 @@
+RedirectMatch 403 ^/htdocs/assets/(.*).html$
+RedirectMatch 403 ^/htdocs/assets/app/(.*)$
